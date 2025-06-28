@@ -1,4 +1,4 @@
-# 🌡️ Arduino Cooling System Project
+# Arduino Cooling System Project
 
 ## Overview
 This project is an embedded system that monitors temperature using a TMP36 sensor and automatically activates a cooling fan when the temperature exceeds a predefined threshold. It uses an Arduino Uno, a 16x2 LCD display, and a relay-controlled fan to manage and visualize thermal conditions.
@@ -29,17 +29,18 @@ This project is an embedded system that monitors temperature using a TMP36 senso
 4. If temperature ≥ 93°C → LCD displays HIGH TEMP warning.
 5. Otherwise, the fan is OFF.
 
-## Schematic
-![Schematic](schematic.png)  
-*(Replace with actual image filename if different)*
+## Schematics
+![Circ](https://github.com/user-attachments/assets/f4100377-99bb-4786-bed9-b51a405648cc)
+![Schem](https://github.com/user-attachments/assets/c5fb27b4-4e85-4703-bf9c-146ac7bff02b)
+
 
 ## Source Code
 The main logic is in `cooling_system.ino`.
 
 ## Author
-**[Your Name]**  
+**[Hristo Dimitrov]**  
 Course Project – Embedded Systems  
-[Date]
+[29/06/2025]
 
 ## License
 This project is for educational use only.
