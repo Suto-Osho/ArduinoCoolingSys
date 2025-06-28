@@ -31,6 +31,7 @@ This project is an embedded system that monitors temperature using a TMP36 senso
 
 ## Schematics
 ![Circ](https://github.com/user-attachments/assets/f4100377-99bb-4786-bed9-b51a405648cc)
+![Schem](https://github.com/user-attachments/assets/be1361e3-47f6-4da4-a76c-6a16bb40f45b)
 
 [Cooling System.pdf](https://github.com/user-attachments/files/20960956/Cooling.System.pdf)
 
